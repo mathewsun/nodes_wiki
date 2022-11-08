@@ -1,0 +1,41 @@
+{
+	"jsonrpc":"2.0",
+	"method":"eth_syncing",
+	"params":[],
+	"id":1
+}
+
+{
+	"jsonrpc":"2.0",
+	"method":"net_peerCount",
+	"params":[],
+	"id":1
+}
+
+{
+	"jsonrpc":"2.0",
+	"method":"eth_getBalance",
+	"params":[
+		"0xFBb1b73C4f0BDa4f67dcA266ce6Ef42f520fBB98", 
+		"latest"
+	],
+	"id":1
+}
+
+{
+	"jsonrpc":"2.0",
+	"method":"personal_newAccount",
+	"params":["passowrd"],
+	"id":1
+}
+
+https://mainnet.infura.io/v3/40342469e9e24fb683029abfdffc3e6*2
+{
+	"jsonrpc":"2.0",
+	"method":"eth_getBalance",
+	"params":[
+		"0xFBb1b73C4f0BDa4f67dcA266ce6Ef42f520fBB98", 
+		"latest"
+	],
+	"id":1
+}
