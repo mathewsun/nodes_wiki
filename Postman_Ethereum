@@ -29,6 +29,13 @@
 	"id":1
 }
 
+{
+    "jsonrpc":"2.0",
+    "method":"eth_accounts",
+    "params":[],
+    "id":1
+}
+
 https://mainnet.infura.io/v3/40342469e9e24fb683029abfdffc3e6*2
 {
 	"jsonrpc":"2.0",
